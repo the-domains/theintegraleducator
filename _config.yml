@@ -1,19 +1,4 @@
-name: TheIntegralEducator
-favicon: null
-layout_spectrum: 0.17151184612885118
 typography_spectrum: 0.5690118588972837
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#17BEBB'
@@ -25,4 +10,20 @@ color:
   lightness: 0.2805764207150787
   saturation: 0.5907294801436365
   rhythmicContrast: 0.9167299678083509
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.17151184612885118
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: TheIntegralEducator
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: 'For educators working for a more loving, just, and sustainable world.'
 purpose: []
