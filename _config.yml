@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Articles
+    id: 01494cf1-7158-4472-8ad6-b0fbac5911f0
+    type: content
 favicon: null
 title: 'For educators working for a more loving, just, and sustainable world.'
 description: School's in!
