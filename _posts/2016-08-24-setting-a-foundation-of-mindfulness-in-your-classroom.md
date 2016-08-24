@@ -1,17 +1,16 @@
 ---
 description: SETTING A FOUNDATION OF MINDFULNESS IN YOUR CLASSROOM
-dateModified: '2016-08-24T04:52:09.854Z'
-datePublished: '2016-08-24T04:52:29.852Z'
+dateModified: '2016-08-24T04:53:51.538Z'
+datePublished: '2016-08-24T04:53:52.107Z'
 title: ''
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-24-setting-a-foundation-of-mindfulness-in-your-classroom.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: setting-a-foundation-of-mindfulness-in-your-classroom/index.html
+_type: Blurb
 
 ---
 ![Brain Anatomy Hoop Art, by Hey Paul Studios, licensed under CC by 2.0](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9360bf0e-c91c-4106-8f86-5e5e21d44205.jpg)
