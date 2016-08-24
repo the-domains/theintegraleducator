@@ -1,17 +1,16 @@
 ---
-description: '5 TIPS FOR INTRODUCING MINDFULNESS AT A NEW SCHOOL SITE '
-dateModified: '2016-08-24T04:32:00.437Z'
-datePublished: '2016-08-24T04:32:14.094Z'
+description: 5 TIPS FOR INTRODUCING MINDFULNESS AT A NEW SCHOOL SITE
+dateModified: '2016-08-24T04:54:56.166Z'
+datePublished: '2016-08-24T04:54:56.777Z'
 title: ''
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-24-5-tips-for-introducing-mindfulness-at-a-new-school-site.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: 5-tips-for-introducing-mindfulness-at-a-new-school-site/index.html
+_type: Blurb
 
 ---
 ![Mindful, by Troy Hostetler, licensed under CC by 2.0](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c68793c9-8647-4489-a568-b8c8e7ca9b5b.jpg)
